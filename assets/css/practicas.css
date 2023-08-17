@@ -1,0 +1,19 @@
+nav {
+    border-style: double 
+    
+}
+.busca {
+    border-style: double;
+    width: 530px;
+    margin-left: 250px;
+    margin-top: -50px;
+}
+button {
+    border-style: inherit;
+}
+.mexico {
+    border-style: inherit;
+    width: 192px;
+    margin-left: 950px;
+    scroll-margin-inline: 100000px;
+}

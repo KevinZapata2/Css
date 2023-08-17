@@ -1,0 +1,38 @@
+header {
+   background-color: aquamarine; /* Cambia el color de la pagina*/
+    width: 1000px; /* Cambia el ancho de una etiqueta*/
+    height: 500px; /*Cambia el alto de una etiqueta*/
+    color: brown; /*Sirve para cambiar el color del texto*/
+}
+nav {
+    background-color: blueviolet;
+    width: 800px;
+    height: 300px;
+}
+
+a {
+    color: white;
+    background-color: black;
+    display: inline-block;
+    padding: 20px;
+    border: black 8px solid;
+ 
+
+    }
+.enlaseservicios {
+    color: violet; /* Se empieza con . cuando se seleciona con class*/
+    
+   
+}
+.junior {
+    color: red;
+    background-color: brown;
+    margin-left: 50px;
+}
+.mexico{
+    color: blue;
+    margin-left: 100px;
+}
+#mexico {
+    color: black; /* Se empieza con # cuando se seleciona con Id*/
+    }
